@@ -3,13 +3,16 @@ package com.example.eculture;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import org.apache.cordova.DroidGap;
 
-public class MainActivity extends Activity {
+//public class MainActivity extends Activity {
+public class MainActivity extends DroidGap {
 
 	@Override
-	protected void onCreate(Bundle savedInstanceState) {
+	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+		//setContentView(R.layout.activity_main);
+		super.loadUrl("file:///android_asset/www/index.html");
 	}
 
 	@Override
