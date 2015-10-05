@@ -8,6 +8,12 @@ KitchenSink.Home = function (params) {
 //                        });
 //                        
 //                        myDialog.show();
+
+	alert("Μνημεία score " + cat1value);
+	alert("Αρχαία Ήπειρος score " + cat2value);
+	alert("Ιστορία score " + cat3value);
+	alert("Λαογραφία score " + cat4value);
+	alert("Πολιτισμός score " + cat5value);
                         
     return {
     };
