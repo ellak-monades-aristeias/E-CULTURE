@@ -1,0 +1,48 @@
+<div data-options="dxView : { name: 'History9', title: 'E-culture' } ">
+    <div class="form" data-options="dxContent : { targetPlaceholder: 'content' } ">
+        <div class="content" data-bind="dxScrollView: { }">
+
+
+
+             <div class="dx-fieldset button">
+				
+				
+                <div class="dx-field">
+                    <div class="dx-field-label" style="font-size:14px;width:70%"></div>
+                    <div class="dx-field-value">
+                            <!--<div data-bind="dxSelectBox:{dataSource: [{ name: 'Male' }, { name: 'Female' }], displayExpr: 'name', valueExpr: 'name', value: gender}" style="font-size:14px;width:30%"></div>
+							<div data-bind="dxRadioGroup: {dataSource: genders, displayExpr: 'name', valueExpr: 'value', value: gender, layout: 'vertical'}"></div>-->
+                    </div>
+                </div>	
+				
+
+				<div>Ο τόπος καταγωγής της Χάμκως, μητέρας του Αλή Πασά.</div>
+				</br>
+				</br>
+				<div data-bind="dxRadioGroup: {dataSource: genders, displayExpr: 'name', valueExpr: 'value', value: gender, layout: 'vertical'}"></div>
+
+				<!--
+				<div data-bind="style: { 'border-color': currentColor }">
+					<p><b>Choose border color</b></p>
+					<div data-bind="dxRadioGroup:{ 
+						items: colors,
+						onValueChanged: changeColor,
+						valueExpr: 'value',
+						value: currentColor
+					}"></div>
+				</div>
+				-->
+
+				<div class="dx-field">
+                    <div class="dx-field-label"></div>
+                    <div class="dx-field-value">
+                        <div data-bind="dxButton: { icon: 'login', text: 'Επόμενο', clickAction: loginfunc }"></div>
+                    </div>
+                </div>
+				
+            </div>		
+		
+		
+        </div>
+    </div>
+</div>
