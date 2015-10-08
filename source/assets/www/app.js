@@ -11,7 +11,7 @@ $(function() {
         layoutSet: DevExpress.framework.html.layoutSets[KitchenSink.config.layoutSet],
         navigation: getNavigationItems()
     });
-    KitchenSink.app.router.register(":view/:id", { view: "Home", id: undefined });
+    KitchenSink.app.router.register(":view/:id", { view: "Category", id: undefined });
     if(DevExpress.devices.real().platform === "win8") {
         $("body").css("background-color", "#000");
     }
