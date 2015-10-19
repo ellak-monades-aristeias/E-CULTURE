@@ -16,4 +16,8 @@
 
 Το APK της εφαρμογής που τρέχει στο λειτουργικό Android βρίσκεται στο path: E-CULTURE/source/bin/Eculture.apk
 
+Οι οδηγίες χρήσης για την εφαρμογή βρίσκονται στο: https://github.com/ellak-monades-aristeias/E-CULTURE/blob/master/User%20Instructions.pdf
+
+Οι οδηγίες για την περαιτέρω ανάπτυξη του κώδικα βρίσκονται στο: https://github.com/ellak-monades-aristeias/E-CULTURE/blob/master/Developer%20Instructions.pdf
+
 Το έργο και ο πηγαίος κώδικας τελούν υπό την άδεια των Creative Commons (https://creativecommons.ellak.gr/)
