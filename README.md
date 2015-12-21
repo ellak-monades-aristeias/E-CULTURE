@@ -31,4 +31,18 @@
 δ. παρέχει άμεση ανατροφοδότηση,  
 ε. αποτελεί ιδανικό περιβάλλον για αυθεντικά πλαίσια αξιολόγησης των μαθητών  
 
-Οι κοινότητες χρηστών/developers που θα ενδιαφερόντουσαν να επεκτείνουν το έργο μας θα μπορούσαν να είναι οι κοινότητες χρηστών των Μονάδων Αριστείας, αλλά και οποισδήποτε ενδιαφέρεται για την ανάπτυξη ανοιχτού λογισμικού.
+Οι κοινότητες χρηστών/developers που θα ενδιαφερόντουσαν να επεκτείνουν το έργο μας θα μπορούσαν να είναι οι κοινότητες χρηστών των Μονάδων Αριστείας, αλλά και οποισδήποτε ενδιαφέρεται για την ανάπτυξη ανοιχτού λογισμικού.  
+
+# E-CULTURE (English short version)  
+  
+E-CULTURE is a digital educational game that focuses on Epirus culture, which has been based on documented pedagogical design and has the principals that characterize a digital educational game and follows the modern trends of learning.
+
+This application includes the design of the game in an open source platform (Android) for smartphones and tablets, with the aim of the better understanding and learning of Epirus culture via multiple choice and multimedia questions.
+
+The application APK running on Android is available here: E-CULTURE/source/bin/Eculture.apk
+
+The usage instructions are available here: https://github.com/ellak-monades-aristeias/E-CULTURE/blob/master/User%20Instructions.pdf
+
+The instructions for the code development are available here: https://github.com/ellak-monades-aristeias/E-CULTURE/blob/master/Developer%20Instructions.pdf
+
+The project and the source code have been developed unded the licence ofν Creative Commons (https://creativecommons.ellak.gr/)  
